@@ -1,0 +1,13 @@
+product_id,product_name,category,price
+P001,T-Shirt,Men,999
+P002,Jeans,Men,1999
+P003,Shirt,Men,1499
+P004,Dress,Women,2499
+P005,Kurti,Women,1799
+P006,Top,Women,1299
+P007,Kids T-Shirt,Kids,699
+P008,Kids Dress,Kids,1199
+P009,Sneakers,Footwear,2999
+P010,Sandals,Footwear,1599
+P011,Watch,Accessories,3499
+P012,Bag,Accessories,2799
